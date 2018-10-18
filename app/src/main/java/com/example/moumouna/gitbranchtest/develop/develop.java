@@ -5,4 +5,6 @@ package com.example.moumouna.gitbranchtest.develop;
  */
 
 public class develop {
+    String dev = "develop";
+
 }
