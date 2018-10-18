@@ -7,6 +7,5 @@ package com.example.moumouna.gitbranchtest.firstbranch;
 public class firstbranch2 {
     int firstbranch2 = 2;
 
-public class firstbranch2 {
     int develop = 0;
 }
