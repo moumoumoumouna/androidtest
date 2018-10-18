@@ -5,4 +5,5 @@ package com.example.moumouna.gitbranchtest.firstbranch;
  */
 
 public class firstbranch2 {
+    int a = 0;
 }
