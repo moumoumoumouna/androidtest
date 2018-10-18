@@ -8,4 +8,11 @@ public class firstbranch2 {
     int firstbranch2 = 2;
 
     int develop = 0;
+
+
+
+    int firstbranch3 = 3;
+    String firstbranch = "hihihi";
+
+
 }
