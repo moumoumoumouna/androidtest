@@ -7,4 +7,11 @@ package com.example.moumouna.gitbranchtest.firstbranch;
 public class firstbranch2 {
     int firstbranch2 = 2;
 
+
+
+
+    int firstbranch3 = 3;
+    String firstbranch = "hihihi";
+
+
 }
